@@ -1,5 +1,5 @@
-# CoolScriptingWithPython
-Python scripts for automation, Ethical-Hacking, DataScience etc.
+# Cool Scripting With Python
+Python scripts for the automation, Ethical-Hacking, DataScience etc.
 
 
 
